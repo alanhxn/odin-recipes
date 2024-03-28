@@ -1,0 +1,9 @@
+* {
+    text-align: center;
+    font-family:Verdana, Tahoma, sans-serif;
+    background-color: lightyellow;
+}
+
+p, li {
+    font-size: 18px;
+}
